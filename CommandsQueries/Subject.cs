@@ -1,7 +1,13 @@
 namespace CommandsQueries
 {
-    public class Subject
+    public enum Subject
     {
-        
+        ENGLISH,
+        MATHS,
+        IT,
+        PHYSICS,
+        BIOLOGY,
+        CHEMISTRY,
+        LITERATURE
     }
 }

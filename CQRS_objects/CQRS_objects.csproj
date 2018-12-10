@@ -8,9 +8,4 @@
       <PackageReference Include="NUnit" Version="3.11.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Commands" />
-      <Folder Include="Queries" />
-    </ItemGroup>
-
 </Project>
